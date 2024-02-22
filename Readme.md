@@ -20,7 +20,7 @@ go run main.go
 
 4. **complete.json** file will be generated and backend server will be running at `port :8080`.
 
-#Installation (Frontend)
+# Installation (Frontend)
 
 1. After cloning the repo, type and enter
 
