@@ -34,7 +34,9 @@ cd aircover-ui
 npm i
 ```
 
-3. Run the frontend server by typing
+3. Be sure to provide the backend api address by setting env variable `REACT_APP_BASE_URL`.
+
+4. Run the frontend server by typing
 
 ```
 npm start
